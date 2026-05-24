@@ -7,18 +7,11 @@
 📚 No momento estou estudando:
 - JavaScript (fundamentos, lógica, DOM)
 - Git e GitHub
-- 
-## 🚀 O que estou aprendendo agora
-- HTML e CSS para criar páginas web
-- Fundamentos de JavaScript
-- Como versionar projetos e colaborar usando o GitHub
 
 🎯 Objetivos:
 - Me tornar um desenvolvedor full stack
 - Criar projetos práticos
 - Contribuir com projetos open source no futuro
-
-📈 Em constante evolução...
 
 ## 💡 Sobre mim
 - Curioso e apaixonado por tecnologia
